@@ -3,8 +3,6 @@ import styles from './App.module.css';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Header from './components/Header';
 
-console.log(styles);
-
 const menu = [
 		{
 			path: "/",
